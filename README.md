@@ -5,4 +5,4 @@ Tabela do desafio pratico.
  JDK 8: para executar o programa.
  NetBeans: para mudar o progra
  
- #Depois de ter os programas instalados para exucutar o programa ée so entrar na pasta "dist" e executar o executavel "Tabela" .jar.
+ #Depois de ter os programas instalados e o arquivo clonado do git, para exucutar o programa é so entrar na pasta "dist" e executar o executavel "Tabela" .jar.
